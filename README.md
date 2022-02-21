@@ -1,15 +1,15 @@
-Pewlett_Hackard-Analysis
+# Pewlett Hackard Analysis
 
-# Overview of the analysis
+## Overview of the analysis
 The purpose of the Pewlett Hackard Analysis is to prepare Pewlett Hackard for the upcoming "silver tsunami." The "silver tsunami refers to the large number of employees who are or or near retirement age and will begin retiring in the next few years. Pewlett Hackard must be ready to provide retirement packages to retirees by determine the number of retiring employees per title, and allow time for those retiring to mentor new generation by identify employees who are eligible to participate in a mentorship program. This would ensure that Pewlett Hackard moves through the "silver tsunami" smoothly without hindering its economic value. 
 
-# Resources
+## Resources
 * QuickDBD
 * pgAdmin 4
 * VSCode
 * CSV files
 
-# Results:
+## Results:
 1. Number of retiring employees
 * After creating the Retirement Titles table using the following code: 
 
@@ -75,7 +75,7 @@ Which outputted the following table (see top 14 rows):
 ![Screen Shot 2022-02-21 at 2 09 44 AM](https://user-images.githubusercontent.com/96089187/154934001-1b8a2962-9b5a-4686-aa45-5f190bc7e81c.png)
 * The top three (3) highest number of senior titles include 13,881 Senior Engineers from the Development Department, 11,848 Senior Engineers from the Production Department, and 10,225 Senior Staff from the Sales Department. 
 
-# Summary: 
+## Summary: 
 Pewlett Hackard is headed in the right direction to plan and prepare for the "silver tsunami" as the company has an incredible large number of employees who are retiring. The key take aways are as follow:
 * 72,458 employees are getting ready for retirement and therefore the same amount of retirement packages and positions will need to be fulfilled.
 * The top two (2) positions with the highest amount of employees who are getting ready to retire are 25,916 Senior Engineers and 24,926 Senior Staff.
