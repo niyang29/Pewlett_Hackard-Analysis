@@ -46,12 +46,14 @@ Please see the following Mentorship Eligibility table (see top 14 rows):
 * After obtaining the information above, we joined the Retirement Titles table with the Departments table in order to do a deeper dive into which department retiring employees fall under: 
 
 ![Screen Shot 2022-02-21 at 1 35 15 AM](https://user-images.githubusercontent.com/96089187/154927811-761b17c2-4b30-456f-bb68-3178a473a9e4.png)
+
 Which resulted in this Unique Titles and Deptarment table (see first 14 rows): 
 
 ![Screen Shot 2022-02-21 at 1 38 11 AM](https://user-images.githubusercontent.com/96089187/154928324-6fc3c77d-f27f-4040-93fc-162f49d4708d.png)
 * From there, the following code was utilized to further break down the department, position titles, and number of positions that would be needed to be fulfilled when employees begin to retire: 
 
 ![Screen Shot 2022-02-21 at 1 39 59 AM](https://user-images.githubusercontent.com/96089187/154928627-f5191988-8b62-4b92-81b6-6af225f92118.png)
+
 Which resulted into this Roles To Fill table (see first 14 rows): 
 
 ![Screen Shot 2022-02-21 at 1 49 28 AM](https://user-images.githubusercontent.com/96089187/154930273-82f51c0e-d493-4404-88ef-e9672914281d.png)
@@ -67,6 +69,7 @@ The following code further aggregated the Department name and total positions in
 * To further investigate senior titles or positions, the following code pulled senior positions including Senior Engineer, Senior Staff, Technique Leader, and Managers to determine employees in high positions who can serve as a mentor to the younger generation: 
 
 ![Screen Shot 2022-02-21 at 2 08 47 AM](https://user-images.githubusercontent.com/96089187/154933823-da8e3dff-d946-4d37-b3d1-9527ee39437c.png)
+
 Which outputted the following table (see top 14 rows):
 
 ![Screen Shot 2022-02-21 at 2 09 44 AM](https://user-images.githubusercontent.com/96089187/154934001-1b8a2962-9b5a-4686-aa45-5f190bc7e81c.png)
