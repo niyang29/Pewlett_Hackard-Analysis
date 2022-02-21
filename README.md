@@ -12,10 +12,15 @@ The purpose of the Pewlett Hackard Analysis is to prepare Pewlett Hackard for th
 # Results:
 1. Number of retiring employees
 * After creating the Retirement Titles table using the following code: 
+
 ![Screen Shot 2022-02-21 at 1 08 25 AM](https://user-images.githubusercontent.com/96089187/154923234-dbe5ddf1-81d1-45aa-8fe9-69a7b5e96729.png)
+
 We found duplicate rows of employees who have changed titles throughout the year. In order to address the duplicatons,  the function "SELECT DISTINCT ON" was used to obtain unique rows, in addition to filtering employees who have already left the company. The following  following code was utilized: 
+
 ![Screen Shot 2022-02-21 at 1 10 33 AM](https://user-images.githubusercontent.com/96089187/154923596-9c346f05-8df4-4d64-a89c-31ad33294648.png)
+
 This code eliminated the duplicates and produced the following table with the top 14 rows: 
+
 ![Screen Shot 2022-02-21 at 1 12 29 AM](https://user-images.githubusercontent.com/96089187/154923927-75fea5a0-4e90-4a73-8a40-7bbc2e56c1f7.png)
 * By using the code SELECT COUNT(emp_no) From unique_titles we are able to see that 72,458 positions will need to be filled. ![Screen Shot 2022-02-21 at 1 14 47 AM](https://user-images.githubusercontent.com/96089187/154924405-2c5d3794-74b4-4cd6-8be7-79c1902806d3.png)
 
